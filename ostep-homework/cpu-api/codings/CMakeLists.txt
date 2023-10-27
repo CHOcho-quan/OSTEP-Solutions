@@ -1,0 +1,6 @@
+add_executable(fork_value fork_value.cc)
+add_executable(fork_file fork_file.cc)
+add_executable(fork_wait fork_wait.cc)
+add_executable(fork_stdio fork_stdio.cc)
+add_executable(exec_ls exec_ls.cc)
+add_executable(pipe pipe.cc)
